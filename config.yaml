@@ -8,7 +8,6 @@ keywords:
        hypoxia room: 3
        hypoxic room: 3
        exercise: 1
-       training: 1
        SpO2: 2
 
 # 通知の閾値
