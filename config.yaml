@@ -9,6 +9,10 @@ keywords:
        hypoxic room: 3
        exercise: 1
        SpO2: 2
+       HRV: 1
+       Heart rate: 1
+       Heart: 1
+       
 
 # 通知の閾値
 score_threshold: 0
