@@ -1,11 +1,15 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:eess.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+       hypoxia: 2
+       hypoxic: 2
+       hypoxia room: 3
+       hypoxic room: 3
+       exercise: 1
+       training: 1
+       SpO2: 2
 
 # 通知の閾値
 score_threshold: 0
